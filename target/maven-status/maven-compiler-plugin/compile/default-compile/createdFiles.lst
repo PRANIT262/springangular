@@ -1,0 +1,12 @@
+com\pranitproject\Exception\ErrorDetails.class
+com\pranitproject\dao\FacebookDAOInterface.class
+com\pranitproject\service\FacebookService.class
+com\pranitproject\aspect\FaceBookAspect.class
+com\pranitproject\controller\FacebookController.class
+com\pranitproject\Exception\ExceptionHandlerAdvice.class
+com\pranitproject\PranitprojectApplication.class
+com\pranitproject\Exception\UserDefineException.class
+com\pranitproject\entity\FacebookUser.class
+com\pranitproject\Exception\MyResponse.class
+com\pranitproject\service\FacebookServiceInterface.class
+com\pranitproject\Exception\ValidationControllerAdvice.class
